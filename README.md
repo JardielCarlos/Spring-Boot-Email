@@ -135,32 +135,3 @@ Para contribuir para este projeto, siga os passos abaixo:
 <h3>Documentações que podem ajudar</h3>
 
 [📝 Como criar uma solicitação pull request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
-
-<h2 id="colab">🤝 Collaborators</h2>
-
-Participantes do Projeto
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/88459973?v=4" width="100px;" alt="Jardiel Carlos Profile Picture"/><br>
-        <sub>
-          <b>Jardiel Carlos</b>
-        </sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h2 id="contribute">📫 Contribute</h2>
-
-Para contribuir para este projeto, siga os passos abaixo:
-
-1. `git clone https://github.com/JardielCarlos/API-Spring-Boot-JPA.git`
-2. `git checkout -b feature/NAME`
-3. Abra um Pull Request explicando o problema resolvido ou recurso realizado, se existir, anexe screenshot das modificações visuais e aguarde a revisão!
-
-<h3>Documentações que podem ajudar</h3>
-
-[📝 Como criar uma solicitação pull request](https://www.atlassian.com/br/git/tutorials/making-a-pull-request)
