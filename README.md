@@ -24,7 +24,7 @@
 
 <h2 id="objective">💡 Objective</h2>
 
-Esse projeto tem o intuito de demonstra um micro-serviço utilizando Spring Boot e RabbitMQ no envio de email de uma aplicação no qual é enviado o email de maneira sincrona e de maneira assincrona (com RabbitMQ)
+Esse projeto tem o intuito de demonstra um micro-serviço utilizando Spring Boot e RabbitMQ no envio de email de uma aplicação no qual é enviado o email de maneira sincrona e de maneira assíncrona (com RabbitMQ)
 
 <h2 id="started">🚀 Getting started</h2>
 
